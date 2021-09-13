@@ -6,7 +6,7 @@
 ```kotlin
 object **y0naha** {
  val name = "Larissa Ionafa"
- val acknowledgements = "estudante/infra em cloud"
+ val acknowledgements = "student/cloud infrastructure"
  
  val primarySkillset = "wip"
  val languages = listOf("Python", "JavaScript", "HTML", "CSS") 
