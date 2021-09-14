@@ -46,4 +46,14 @@ object **y0naha** {
  
 </div>
 
-
+<br>
+<script language="JavaScript">var fhs = document.createElement('script');var fhs_id = "5626742";
+var ref = (''+document.referrer+'');var pn =  window.location;var w_h = window.screen.width + " x " + window.screen.height;
+fhs.src = "//freehostedscripts.net/ocounter.php?site="+fhs_id+"&e1=&e2=x&r="+ref+"&wh="+w_h+"&a=1&pn="+pn+"";
+document.head.appendChild(fhs);document.write("<span id='o_"+fhs_id+"'></span>");
+</script>
+ | 
+<script language="JavaScript">var fhsh = document.createElement('script');var fhs_id_h = "3342854";
+fhsh.src = "//freehostedscripts.net/ocount.php?site="+fhs_id_h+"&name=&a=1";
+document.head.appendChild(fhsh);document.write("<span id='h_"+fhs_id_h+"'></span>");
+</script>
